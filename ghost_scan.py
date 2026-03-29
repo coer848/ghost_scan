@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 ghost_scan.py — OSINT Username Scanner
-Autor: Gabo | github.com/tu-usuario
+Autor: Gabo | github.com/coer848
 Descripción: Busca un username en múltiples plataformas y reporta su presencia.
 """
 
