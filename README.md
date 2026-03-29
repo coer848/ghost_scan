@@ -103,11 +103,4 @@ El autor no se hace responsable del uso indebido.
 
 ---
 
-## Autor
-
-**Gabo** — Estudiante de Técnico en Programación de Software (SENA) y Redes (UNIMINUTO).  
-Intereses: ciberseguridad, automatización, desarrollo de herramientas CLI.
-
----
-
 *"Know your footprint before others do."*
