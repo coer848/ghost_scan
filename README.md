@@ -36,7 +36,7 @@
 
 ```bash
 # Clona el repo
-git clone https://github.com/tu-usuario/ghost_scan.git
+git clone https://github.com/coer848/ghost_scan.git
 cd ghost_scan
 
 # Instala la única dependencia
